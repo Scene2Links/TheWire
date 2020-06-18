@@ -10,3 +10,5 @@ nodeList - Numeric ID associated with node
 nodeName - Character label for node
 screenTime - Amount of screen time for individual character (in minutes)
 timeGraph - Node-time chart with each row representing a character, and column representing when a character appears (all episodes concatenated)
+
+The two CSV files represent a node and edge shhet to be imported into Gephi for network visualization
